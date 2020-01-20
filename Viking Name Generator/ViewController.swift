@@ -26,7 +26,7 @@ class ViewController: UIViewController {
     let maleLastNames = ["Lothbrok", "Ironside", "the Stout", "the Saint", "Stormborn", "the Red", "the Berserker",
                          "Thorsson", "Odinsson", "the Bloody", "the Cruel", "the Wolf", "the Conqueror", "the Raven",
                          "the Gimp", "Redbeard", "the Wise", "the Clumsy", "the Serpent", "the Outcast", "the Boneless",
-                        "Bloodaxe", "Bluetooth", "Wartooth", "Vilulf"]
+                        "Bloodaxe", "Bluetooth", "Wartooth", "Vilulf", "Bjornsson"]
     
     
     let femaleNames = ["Astrid", "Bodil", "Frida", "Gertru", "Gro", "Estrid", "Hilda", "Gudrun", "Freya",
@@ -37,7 +37,7 @@ class ViewController: UIViewController {
     let femaleLastNames = ["the Beautiful", "the Angry", "the Elegant", "the Widow", "the Cruel", "the Saint", "Stormborn",
                            "the Scorned", "the Red", "the Playful", "the Wise", "the Honest", "the Graceful", "the Serpent",
                             "the Outcast", "the Shield Maiden"]
-
+    
     
     
     override func viewDidLoad() {
@@ -76,4 +76,4 @@ class ViewController: UIViewController {
 
 }
 
-}
+} // END
